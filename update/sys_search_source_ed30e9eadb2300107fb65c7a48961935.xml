@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <name>My Bookings</name>
+        <source_table>x_472569_my_demo_my_booking</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-17 12:03:22</sys_created_on>
+        <sys_id>ed30e9eadb2300107fb65c7a48961935</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Bookings</sys_name>
+        <sys_package display_value="My Demo" source="x_472569_my_demo">aceed56adb2300107fb65c7a4896194e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Demo">aceed56adb2300107fb65c7a4896194e</sys_scope>
+        <sys_update_name>sys_search_source_ed30e9eadb2300107fb65c7a48961935</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-17 12:03:22</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=ed30e9eadb2300107fb65c7a48961935"/>
+</record_update>

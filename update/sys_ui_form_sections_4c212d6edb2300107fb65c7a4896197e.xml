@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="4c212d6edb2300107fb65c7a4896197e" sys_domain="global" table="x_472569_my_demo_my_booking" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 12:07:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c212d6edb2300107fb65c7a48961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_472569_my_demo_my_booking" name="x_472569_my_demo_my_booking" sys_domain="global" view="Default view">4c212d6edb2300107fb65c7a4896197e</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_472569_my_demo_my_booking" sys_domain="global" view="Default view">f880e96adb2300107fb65c7a489619f3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 12:07:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 12:07:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c212d6edb2300107fb65c7a48961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_472569_my_demo_my_booking" name="x_472569_my_demo_my_booking" sys_domain="global" view="Default view">4c212d6edb2300107fb65c7a4896197e</sys_ui_form>
+            <sys_ui_section caption="Section Two" display_value="Section Two" name="x_472569_my_demo_my_booking" sys_domain="global" view="Default view">c4212d6edb2300107fb65c7a4896197d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 12:07:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 12:15:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>92e265eedb2300107fb65c7a48961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_472569_my_demo_my_booking" name="x_472569_my_demo_my_booking" sys_domain="global" view="Default view">4c212d6edb2300107fb65c7a4896197e</sys_ui_form>
+            <sys_ui_section caption="Section Three" display_value="Section Three" name="x_472569_my_demo_my_booking" sys_domain="global" view="Default view">dee265eedb2300107fb65c7a4896192d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 12:15:10</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_472569_my_demo_my_booking</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-17 12:07:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c212d6edb2300107fb65c7a4896197e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_472569_my_demo_my_booking</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="My Demo" source="x_472569_my_demo">aceed56adb2300107fb65c7a4896194e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My Demo">aceed56adb2300107fb65c7a4896194e</sys_scope>
+            <sys_update_name>sys_ui_form_sections_4c212d6edb2300107fb65c7a4896197e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-17 12:07:22</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
