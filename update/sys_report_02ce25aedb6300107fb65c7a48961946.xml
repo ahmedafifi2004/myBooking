@@ -42,7 +42,7 @@
         <donut_width_percent>50</donut_width_percent>
         <end_time/>
         <exp_report_attrs>true</exp_report_attrs>
-        <field/>
+        <field>active</field>
         <field_list>number,requested_for,opened_by,request_state,due_date</field_list>
         <filter/>
         <from/>
@@ -51,7 +51,7 @@
         <group/>
         <import_table/>
         <interval>year</interval>
-        <is_published>false</is_published>
+        <is_published>true</is_published>
         <is_real_time>false</is_real_time>
         <is_scheduled>false</is_scheduled>
         <legend_align_columns>true</legend_align_columns>
@@ -74,7 +74,7 @@
         <pivot_expanded>true</pivot_expanded>
         <report_drilldown/>
         <report_source/>
-        <roles/>
+        <roles>public</roles>
         <row/>
         <sc_groupby_item_id/>
         <sc_groupby_variable_id/>
@@ -82,7 +82,7 @@
         <sc_stackby_variable_id/>
         <score_color display_value="Black">65b30218a9fe3dba0120df8611520d97</score_color>
         <series_name_text/>
-        <set_color>one_color</set_color>
+        <set_color>color_palette</set_color>
         <show_chart_border>false</show_chart_border>
         <show_chart_data_label>false</show_chart_data_label>
         <show_chart_title>report</show_chart_title>
@@ -100,23 +100,23 @@
         <sumfield/>
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-03-17 12:20:12</sys_created_on>
-        <sys_id>8c146562db6300107fb65c7a4896193e</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>Request Report</sys_name>
+        <sys_created_on>2020-03-17 13:07:02</sys_created_on>
+        <sys_id>02ce25aedb6300107fb65c7a48961946</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Test Request Report</sys_name>
         <sys_package display_value="My Demo" source="x_472569_my_demo">aceed56adb2300107fb65c7a4896194e</sys_package>
         <sys_policy/>
         <sys_scope display_value="My Demo">aceed56adb2300107fb65c7a4896194e</sys_scope>
-        <sys_update_name>sys_report_8c146562db6300107fb65c7a4896193e</sys_update_name>
+        <sys_update_name>sys_report_02ce25aedb6300107fb65c7a48961946</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-03-17 13:10:31</sys_updated_on>
+        <sys_updated_on>2020-03-17 13:09:12</sys_updated_on>
         <table>x_472569_my_demo_my_booking</table>
-        <title>Request Report</title>
+        <title>Test Request Report</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
         <title_vertical_alignment>top</title_vertical_alignment>
         <to/>
-        <trend_field>state</trend_field>
-        <type>hist</type>
+        <trend_field/>
+        <type>pie</type>
         <upper_limit/>
         <use_color_heatmap>false</use_color_heatmap>
         <use_null_in_trend>false</use_null_in_trend>
