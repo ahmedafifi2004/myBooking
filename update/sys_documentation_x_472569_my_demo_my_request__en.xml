@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="My Booking" language="en" table="x_472569_my_demo_my_booking">
+    <sys_documentation element="" label="My Request" language="en" table="x_472569_my_demo_my_request">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>My Booking</label>
+            <label>My Request</label>
             <language>en</language>
-            <name>x_472569_my_demo_my_booking</name>
-            <plural>My Bookings</plural>
+            <name>x_472569_my_demo_my_request</name>
+            <plural>My Requests</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-17 12:01:56</sys_created_on>
-            <sys_id>d4303122dba300107fb65c7a4896199f</sys_id>
+            <sys_created_on>2020-03-17 13:12:02</sys_created_on>
+            <sys_id>93ef69eedb6300107fb65c7a4896194b</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>My Booking</sys_name>
+            <sys_name>My Request</sys_name>
             <sys_package display_value="My Demo" source="x_472569_my_demo">aceed56adb2300107fb65c7a4896194e</sys_package>
             <sys_policy/>
             <sys_scope display_value="My Demo">aceed56adb2300107fb65c7a4896194e</sys_scope>
-            <sys_update_name>sys_documentation_x_472569_my_demo_my_booking__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_472569_my_demo_my_request__en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-17 12:01:56</sys_updated_on>
+            <sys_updated_on>2020-03-17 13:12:02</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
